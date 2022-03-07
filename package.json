@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.2.5",
-    "apollo-server-azure-functions": "^2.2.5",
+    "apollo-server": "^3.0.0",
+    "apollo-server-azure-functions": "^3.0.0",
     "graphql": "^14.0.2"
   }
 }
